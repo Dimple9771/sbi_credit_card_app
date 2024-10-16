@@ -1,2 +1,3 @@
 from ubuntu
 mainntefghf
+cmd "echo hello"
