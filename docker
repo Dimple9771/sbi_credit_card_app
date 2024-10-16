@@ -1,1 +1,8 @@
 FROM WINDOWS
+from ubuntu
+maintainer 'dimple'
+cmd "echo hello"
+maintainer 'dimple'
+echo 'hi'
+
+

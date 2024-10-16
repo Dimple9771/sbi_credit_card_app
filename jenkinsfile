@@ -1,0 +1,30 @@
+
+changes for AB-103
+tools{
+     mavan
+}
+
+jirra AB-101
+pipeline{
+
+   agent any
+   stages {
+   stages{
+    step{
+      }
+    }
+  }
+  }
+
+
+story AB-102
+
+
+stage("git clone") {
+   step{
+// logic
+
+
+}
+}
+
