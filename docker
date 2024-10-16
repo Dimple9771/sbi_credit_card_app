@@ -1,3 +1,6 @@
 from ubuntu
-mainntefghf
+maintainer 'dimple'
 cmd "echo hello"
+maintainer 'dimple'
+echo 'hi'
+
